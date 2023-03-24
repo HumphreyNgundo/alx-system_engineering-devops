@@ -1,1 +1,1 @@
-This directory deals with Puppet
+Configuration Management
